@@ -5,7 +5,7 @@ Trabalho da disciplina "Projeto Detalhado de Software" - UFRN 2022
 
 Para iniciar esse projeto, é necessário que o **maven** esteja instalado em seu ambiente de desenvolvimento. Além disso, note que o repositório utilizado para o projeto será a partir da branch "master"
 
-## Passo a passo para instalação no Linux:
+## Passo a passo para instalação do maven no Linux:
 
 - `sudo apt-get update` -> atualizar o apt-get
 - `sudo apt-get -y install maven` -> instalar o maven
