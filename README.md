@@ -3,7 +3,7 @@ Trabalho da disciplina "Projeto Detalhado de Software" - UFRN 2022
 
 # Atenção !
 
-Para iniciar esse projeto, é necessário que o **maven** esteja instalado em seu ambiente de desenvolvimento. Além disso, note que o repositório utilizado para o projeto ser
+Para iniciar esse projeto, é necessário que o **maven** esteja instalado em seu ambiente de desenvolvimento. Além disso, note que o repositório utilizado para o projeto será a partir da branch "master"
 
 ## Passo a passo para instalação no Linux:
 
